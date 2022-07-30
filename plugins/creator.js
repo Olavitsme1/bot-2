@@ -24,7 +24,7 @@ let teksbio = `${htki} *BIODATA* ${htka}
 *ᴀɢᴇ:* 13ᵗʰ
 *sᴛᴀᴛᴜs:* single 
 
-*ʙɪʀᴛʜᴅᴀʏ:* 2 Des 200*
+*ʙɪʀᴛʜᴅᴀʏ:* 20 Des 200*
 *ᴀᴅᴅʀᴇss:* Indonesia, Jawa Tengah, Konoha 
 
 *- - sᴋɪʟʟs: - -* 
